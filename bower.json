@@ -1,0 +1,21 @@
+{
+  "name": "woui",
+  "homepage": "https://github.com/Alanlove/webUi",
+  "authors": [
+    "haihua.zhu <alan90.sh@gmail.com>"
+  ],
+  "description": "for framework",
+  "main": "",
+  "keywords": [
+    "webui"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
